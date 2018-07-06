@@ -1,5 +1,5 @@
 def func1():
-    print "World!"
+    print "World"
 
 # func1()
 
