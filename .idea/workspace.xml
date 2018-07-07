@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="316aaf89-0360-4a30-bb2a-e0aca78b15ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_application.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/score.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="316aaf89-0360-4a30-bb2a-e0aca78b15ca" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2541" />
     <option name="y" value="39" />
     <option name="width" value="1400" />
@@ -90,10 +83,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="zero_AIkoza" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zero_AIkoza" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="zero_AIkoza" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -257,15 +246,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2541" y="39" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007225" side_tool="true" weight="0.33107343" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3299435" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927744" visible="true" weight="0.35141242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927744" weight="0.33049947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
